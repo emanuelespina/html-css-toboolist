@@ -1,0 +1,32 @@
+
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    background-color: lightgrey;
+}
+
+#logo {
+    width: 250px;
+}
+
+.header {
+    padding: 10px 20px;
+    background-color: white;
+}
+
+main {
+    
+}
+
+.container {
+    width: 70%;
+    margin: 40px auto;
+    border: 1px solid black;
+}
