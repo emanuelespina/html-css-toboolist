@@ -7,26 +7,144 @@
     box-sizing: border-box;
 }
 
+/* page color and font */
+
 body {
     font-family: Roboto, sans-serif;
     background-color: lightgrey;
 }
 
+/* logo dimention */
+
 #logo {
     width: 250px;
 }
+
+/* header */
 
 .header {
     padding: 10px 20px;
     background-color: white;
 }
 
+/* positionig of section */
+
 main {
-    
+   margin-top: 35px; 
 }
+
+ul {
+    list-style: none;
+}
+
 
 .container {
     width: 70%;
-    margin: 40px auto;
-    border: 1px solid black;
+    margin: 2px auto;
+    background-color: white;
+}
+
+
+/* table dimension */
+
+
+li {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+.space-list {
+    margin-bottom: 25px;
+}
+
+/* centerig list */
+
+.button-section {
+    height: auto;
+    padding: 5px 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.list-section {
+    padding: 30px 40px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* button */
+
+.button-form {
+    display: inline-block;
+    font-size: 14px;
+    padding: 5px 10px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+}
+
+.button-selection {
+    background-color: rgb(105, 160, 197);
+}
+
+
+/* list item */
+
+.circle {
+    display: inline-block;    
+    font-size: 10px;
+    padding: 2px; 
+    width: 16px;
+    height: 16px;   
+    border-radius: 50%;
+    text-align: center;
+    line-height: 9px;
+    margin-right: 8px; 
+    margin-left: 2px;     
+}
+
+.check {
+    color: greenyellow;
+    border: 2px solid greenyellow;
+}
+
+.cross {
+    color: red;
+    border: 2px solid red;   
+}
+
+/* task  */
+
+.task-form {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 10px;
+    color: white;
+    border-radius: 30px;
+}
+
+.editorial {
+    background-color: aquamarine;
+}
+
+.q1-goals {
+    background-color: blueviolet;
+}
+
+.recruiting {
+    background-color: greenyellow;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: brown;
+}
+
+.sales {
+    background-color: lightgreen;
 }
