@@ -86,7 +86,7 @@ h2 {
 }
 
 .button-selection {
-    background-color: rgb(105, 160, 197);
+    background-color: rgb(20, 170, 255);
 }
 
 
@@ -106,13 +106,13 @@ h2 {
 }
 
 .check {
-    color: greenyellow;
-    border: 2px solid greenyellow;
+    color: rgb(96, 212, 192);
+    border: 1px solid rgb(96, 212, 192);
 }
 
 .cross {
     color: red;
-    border: 2px solid red;   
+    border: 1px solid red;   
 }
 
 /* task  */
@@ -126,25 +126,25 @@ h2 {
 }
 
 .editorial {
-    background-color: aquamarine;
+    background-color: rgb(9, 169, 237);
 }
 
 .q1-goals {
-    background-color: blueviolet;
+    background-color: rgb(171, 93, 230);
 }
 
 .recruiting {
-    background-color: greenyellow;
+    background-color: rgb(44, 198, 171);
 }
 
 .mobile {
-    background-color: orange;
+    background-color: rgb(255, 155, 0);
 }
 
 .website {
-    background-color: brown;
+    background-color: rgb(236, 74, 157);
 }
 
 .sales {
-    background-color: lightgreen;
+    background-color: rgb(163, 209, 22);
 }
