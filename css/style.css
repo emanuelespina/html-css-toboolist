@@ -85,6 +85,19 @@ h2 {
     border-radius: 10px;
 }
 
+/* hover è quando ci passo sopra con il mouse */
+
+.button-form:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+/* active è quando ci clicco sopra */
+
+.button-form:active {
+    padding: 10px 15px;
+}
+
 .button-selection {
     background-color: rgb(20, 170, 255);
 }
